@@ -97,7 +97,7 @@ RETURN DIVIDE([Total Sales] - PrevYearSales, PrevYearSales, 0)
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/surensundharam0627-lang/Superstore-Sales-Analysis.git
+   git clone https://github.com/surensundharam0627-lang/sample.git
    ```
 2. **Open Power BI Report**:
    - Double-click `reports/Superstore.pbix` to open it in **Power BI Desktop**.
