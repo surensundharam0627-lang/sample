@@ -275,7 +275,6 @@ def analytics(numbers: str = Query(default="10,20,30,40,50", description="Comma-
         mean = total / count
         sorted_nums = sorted(num_list)
         
-        # Calculate median
         if count % 2 == 1:
             median = sorted_nums[count // 2]
         else:
